@@ -15,9 +15,8 @@
 
 
 .bg {
-  background: url(./img/Bg/Rectangle.png) no-repeat center;
+  background: url(../img/Bg/Rectangle.png) no-repeat center;
   height: 740px;
-
 }
 
 .header__nav {
@@ -338,11 +337,11 @@
   margin: 0 auto;
 }
 .row1{
-  background: url(./img/ssss.png);
+  background: url(../img/ssss.png);
   height: 407px;
 }
 .row2{
-  background: url(./img/ssss.png);
+  background: url(../img/ssss.png);
   height: 407px;
 }
 /*--------------------------------------------------*/
