@@ -3,9 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap');
 /*font-family: 'Oswald', sans-serif;*/
 
-:root {}
-
-
 .wrapper {
   position: relative;
 }
@@ -18,7 +15,7 @@
 
 
 .bg {
-  background: url(/img/Bg/Rectangle.png) no-repeat center;
+  background: url(./img/Bg/Rectangle.png) no-repeat center;
   height: 740px;
 
 }
@@ -341,11 +338,11 @@
   margin: 0 auto;
 }
 .row1{
-  background: url(/img/ssss.png);
+  background: url(./img/ssss.png);
   height: 407px;
 }
 .row2{
-  background: url(/img/ssss.png);
+  background: url(./img/ssss.png);
   height: 407px;
 }
 /*--------------------------------------------------*/
